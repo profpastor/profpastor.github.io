@@ -23,7 +23,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # foto
+  avatar           : "profile.png"
   name             : "David Pastor i Batxellí"
   pronouns         : # example: "she/her"  
   bio              : "Secondary education teacher and Independent researcher"
